@@ -1,6 +1,6 @@
 # test_flutter
 
-A new Flutter project.test，test
+A new Flutter project.
 
 ## Getting Started
 
